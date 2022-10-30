@@ -58,7 +58,7 @@ formatter.match({
   "location": "Loginsteps.user_launch_chrome_browser()"
 });
 formatter.result({
-  "duration": 2513543500,
+  "duration": 2886050500,
   "status": "passed"
 });
 formatter.match({
@@ -71,7 +71,7 @@ formatter.match({
   "location": "Loginsteps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2541667500,
+  "duration": 2446355700,
   "status": "passed"
 });
 formatter.match({
@@ -88,14 +88,14 @@ formatter.match({
   "location": "Loginsteps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 3246566500,
+  "duration": 3219467000,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.click_on_login()"
 });
 formatter.result({
-  "duration": 5496405600,
+  "duration": 5600448600,
   "status": "passed"
 });
 formatter.match({
@@ -108,14 +108,14 @@ formatter.match({
   "location": "Loginsteps.page_title_should_be(String)"
 });
 formatter.result({
-  "duration": 37699400,
+  "duration": 60787400,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_click_on_Log_out_link()"
 });
 formatter.result({
-  "duration": 4021344800,
+  "duration": 3984416300,
   "status": "passed"
 });
 formatter.match({
@@ -128,14 +128,14 @@ formatter.match({
   "location": "Loginsteps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 20851000,
+  "duration": 17797900,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.close_browser()"
 });
 formatter.result({
-  "duration": 16300498900,
+  "duration": 16263090600,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "Loginsteps.user_launch_chrome_browser()"
 });
 formatter.result({
-  "duration": 1115776900,
+  "duration": 654770000,
   "status": "passed"
 });
 formatter.match({
@@ -288,7 +288,7 @@ formatter.match({
   "location": "Loginsteps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2729470800,
+  "duration": 2083515400,
   "status": "passed"
 });
 formatter.match({
@@ -305,14 +305,14 @@ formatter.match({
   "location": "Loginsteps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 3203245300,
+  "duration": 3236335000,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.click_on_login()"
 });
 formatter.result({
-  "duration": 1478137400,
+  "duration": 1602232200,
   "status": "passed"
 });
 formatter.match({
@@ -325,7 +325,7 @@ formatter.match({
   "location": "Loginsteps.page_title_should_be(String)"
 });
 formatter.result({
-  "duration": 16269128900,
+  "duration": 16293938200,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.assertTrue(Assert.java:41)\r\n\tat org.junit.Assert.assertTrue(Assert.java:52)\r\n\tat Stepdefinitions.Loginsteps.page_title_should_be(Loginsteps.java:49)\r\n\tat ✽.Then page title should be \"Dashboard / nopCommerce administration\"(Features/Login.feature:20)\r\n",
   "status": "failed"
 });
@@ -409,7 +409,7 @@ formatter.match({
   "location": "Loginsteps.user_launch_chrome_browser()"
 });
 formatter.result({
-  "duration": 1099129300,
+  "duration": 709938000,
   "status": "passed"
 });
 formatter.match({
@@ -422,7 +422,7 @@ formatter.match({
   "location": "Loginsteps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2343283300,
+  "duration": 1610679000,
   "status": "passed"
 });
 formatter.match({
@@ -439,14 +439,14 @@ formatter.match({
   "location": "Loginsteps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 3230191700,
+  "duration": 3257503300,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.click_on_login()"
 });
 formatter.result({
-  "duration": 5011546000,
+  "duration": 4668963400,
   "status": "passed"
 });
 formatter.match({
@@ -459,14 +459,14 @@ formatter.match({
   "location": "Loginsteps.page_title_should_be(String)"
 });
 formatter.result({
-  "duration": 28202700,
+  "duration": 42837600,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_click_on_Log_out_link()"
 });
 formatter.result({
-  "duration": 4146852900,
+  "duration": 3965681500,
   "status": "passed"
 });
 formatter.match({
@@ -479,14 +479,14 @@ formatter.match({
   "location": "Loginsteps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 17100800,
+  "duration": 21752600,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.close_browser()"
 });
 formatter.result({
-  "duration": 16269421500,
+  "duration": 16267118600,
   "status": "passed"
 });
 });
